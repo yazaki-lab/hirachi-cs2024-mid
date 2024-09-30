@@ -1,0 +1,17 @@
+# Fdb version 4
+["dvipdf"] 0 "latexmkrc.dvi" "latexmkrc.pdf" "latexmkrc" 0 -1
+  "latexmkrc.dvi" 0 -1 0 "latex"
+  (generated)
+  "latexmkrc.pdf"
+  (rewritten before read)
+["latex"] 1727408653.56156 "latexmkrc" "latexmkrc.dvi" "latexmkrc" 1727408653.85133 2
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1711965992 8157536 37a51c15c220383b5b4024b579c6aab4 ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "latexmkrc" 1726152781.95355 975 b86e507095cd194699ef5def240d85ee ""
+  "latexmkrc.aux" 1727408509.84197 32 3985256e7290058c681f74d7a3565a19 "latex"
+  (generated)
+  "latexmkrc.aux"
+  "latexmkrc.dvi"
+  "latexmkrc.log"
+  (rewritten before read)

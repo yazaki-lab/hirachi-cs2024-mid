@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{k8s}
+{Cloud Native Foundation}.
+\newblock {Kuberntes}.
+\newblock \url{https://kubernetes.io/}.
+
+\bibitem{Eriksson2023}
+Oscar Eriksson, Henrik Bjorklund, Bj~Bjorklund, and Michael Minock.
+\newblock An evaluation of honeypots with compliant kubernetes.
+\newblock 2023.
+
+\bibitem{Fulton2023}
+Dan Fulton, Laurie Stephey, R~Shane Canon, Brandon Cook, and Adam Lavely.
+\newblock Containers everywhere: Towards a fully containerized hpc platform.
+\newblock 2023.
+
+\end{thebibliography}

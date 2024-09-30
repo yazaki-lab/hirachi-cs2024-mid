@@ -1,0 +1,8 @@
+PWD /Users/koichi/dev/hirachi-cs2024-mid
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt
+INPUT latexmkrc
+OUTPUT latexmkrc.log

@@ -1,0 +1,42 @@
+@article{Tsuruta2020,
+   abstract = {To respond to various requests from users, web service infrastructure must change system configurations quickly and flexibly without making users aware of the system configuration. However, because SSH used as a secure remote connection service to a server must send a connection request by specifying the IP address or hostname of the server, the SSH client must know the changed information when the IP address or hostname is changed. To overcome this difficulty, a method exists by which a client tool such as gcloud command obtains the IP address or hostname of the destination server based on unique label information of each server. However, this method requires restrictions and changes to the tools used by the client side. Another method is to use a proxy server, such as SSH Piper, to obtain the IP address or hostname of the destination server based on the SSH username. In existing SSH proxy servers, the source code must be changed directly to change the proxy server behavior. As described herein, we propose an SSH proxy server which can follow system changes using hook functions that can be incorporated by system administrators without requiring restrictions or changes to the clients. The proposed method has high extensibility for system changes because the proxy server behavior can be changed easily merely by modifying the hook function to be incorporated. Furthermore, using the proposed method confirmed that the overhead of establishing an SSH session is about 20 ms, which is a short time during which the SSH client does not feel a delay when logging into the server with SSH.},
+   author = {Hirofumi Tsuruta and Ryosuke Matsumoto},
+   doi = {10.1109/COMPSAC48688.2020.00043},
+   isbn = {9781728173030},
+   journal = {Proceedings - 2020 IEEE 44th Annual Computers, Software, and Applications Conference, COMPSAC 2020},
+   month = {7},
+   pages = {1761-1766},
+   publisher = {Institute of Electrical and Electronics Engineers Inc.},
+   title = {Sshr: An SSH Proxy Server Responsive to System Changes without Forcing Clients to Change},
+   year = {2020},
+}
+
+@article{Fulton2023,
+   abstract = {Although containers provide many operational advantages including flexibility, portability and reproducibility, a fully containerized ecosystem for HPC systems does not yet exist. To date, containers in HPC typically require both substantial user expertise and additional container and job configuration. In this paper, we argue that a fully containerized HPC platform is compelling for both HPC administrators and users, offer ideas for what this platform might look like, and identify gaps that must be addressed to move from current state of the art to this containers everywhere approach. Additionally, we will discuss enabling core functionality, including communicating with the Slurm scheduler, using custom user-designed images, and using tracing/debuggers inside containers. We argue that to achieve the greatest benefit for both HPC administrators and users a model is needed that will enable both novice users, who have not yet adopted container technologies, as well as expert users who have already embraced containers. The aspiration of this work is to move towards a model in which all users can reap the benefits of working in a containerized environment without being an expert in containers or without even knowing that they are inside of one.},
+   author = {Dan Fulton and Laurie Stephey and R Shane Canon and Brandon Cook and Adam Lavely},
+   keywords = {High-Performance Computing,Index Terms-Containers},
+   title = {Containers Everywhere: Towards a Fully Containerized HPC Platform},
+   url = {\url{https://cug.org/proceedings/cug2023\_proceedings/includes/files/pap145s2-file1.pdf}},
+   year = {2023},
+}
+
+@article{Eriksson2023,
+   abstract = {This thesis evaluates different honeypot technologies and how they can be integrated into Compliant Kubernetes (CK8s), a secure open-source distribution of Kubernetes designed to address various co ...},
+   author = {Oscar Eriksson and Henrik Bjorklund and Bj Bjorklund and Michael Minock},
+   keywords = {Computer Sciences,Datavetenskap (datalogi),cloud security,compliance},
+   title = {An evaluation of Honeypots with Compliant Kubernetes},
+   url = {\url{https://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-212139}},
+   year = {2023},
+}
+
+@Misc{ContainerSSH,
+  author = "{Cloud Native Foundation}",
+  title        = "{ContainerSSH}",
+  howpublished = "\url{https://containerssh.io/}"
+}
+
+@Misc{k8s,
+  author = "{Cloud Native Foundation}",
+  title        = "{Kuberntes}",
+  howpublished = "\url{https://kubernetes.io/}"
+}

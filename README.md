@@ -1,17 +1,26 @@
-# 電通大CSプログラム発表会用レジュメ様式
+## bibtemの使い方
 
-電気通信大学コンピュータサイエンスプログラムにおける卒業研究・修士論文発表会用のレジュメ様式のリポジトリ．
+`export.bib`を更新したら以下の手順で反映させます。
 
-## 提供される様式
+```bash
+platex hirachi-cs-2024-mid.tex
+pbibtex hirachi-cs-2024-mid
+platex hirachi-cs-2024-mid.tex
+platex hirachi-cs-2024-mid.tex
+```
 
-次の2種類が提供されている．
+## latexmkの使い方
 
-* LaTeXのクラスファイル `cs-handout.cls` 及びその利用例 `cs-handout.tex` 
-* Microsoft Wordのテンプレートファイル `cs-handout.dotx`
+`latexmk`を使うと，設定ファイルは`latexmkrc`です．`latex`や`bibtex`によるビルドを一括で実行してくれます．
 
-原則として，LaTeXの利用が推奨されている．
-Wordテンプレートは，LaTeXを利用できない人に対する救済措置である．
+## Makefileについて
 
-## 問合せや提案
+`latexmk`をビルド方法について`Makefile`に記載しています．
+`Makefile`内の`PROJECT`を`.tex`ファイルの拡張子を除いたものにすれば
+`make`コマンドでビルドできます．
 
-IssuesやPRを活用されたい．
+```text
+PROJECT = hirachi-cs-2024-mid
+```
+
+`make watch`で`latexmk`をWatchモードで動かせます．

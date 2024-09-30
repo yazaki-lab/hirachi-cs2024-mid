@@ -1,0 +1,50 @@
+This is upBibTeX, Version 0.99d-j0.36-u1.30 (utf8.euc) (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: hirachi-cs-2024-mid.aux
+The style file: unsrt.bst
+Database file #1: export.bib
+Warning--empty journal in Eriksson2023
+Warning--empty journal in Fulton2023
+You've used 3 entries,
+            1791 wiz_defined-function locations,
+            459 strings with 3938 characters,
+and the built_in function-call counts, 502 in all, are:
+= -- 32
+> -- 35
+< -- 0
++ -- 13
+- -- 10
+* -- 24
+:= -- 95
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 21
+empty$ -- 47
+format.name$ -- 10
+if$ -- 103
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 2
+newline$ -- 18
+num.names$ -- 3
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 11
+stack$ -- 0
+substring$ -- 0
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 3
+width$ -- 4
+write$ -- 29
+is.kanji.str$ -- 0
+(There were 2 warnings)
