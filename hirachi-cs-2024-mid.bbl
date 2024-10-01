@@ -1,18 +1,15 @@
 \begin{thebibliography}{1}
 
-\bibitem{k8s}
+\bibitem{ContainerSSH}
 {Cloud Native Foundation}.
-\newblock {Kuberntes}.
-\newblock \url{https://kubernetes.io/}.
+\newblock {ContainerSSH}.
+\newblock \url{https://containerssh.io/}.
 
-\bibitem{Eriksson2023}
-Oscar Eriksson, Henrik Bjorklund, Bj~Bjorklund, and Michael Minock.
-\newblock An evaluation of honeypots with compliant kubernetes.
-\newblock 2023.
-
-\bibitem{Fulton2023}
-Dan Fulton, Laurie Stephey, R~Shane Canon, Brandon Cook, and Adam Lavely.
-\newblock Containers everywhere: Towards a fully containerized hpc platform.
-\newblock 2023.
+\bibitem{Tsuruta2020}
+Hirofumi Tsuruta and Ryosuke Matsumoto.
+\newblock Sshr: An ssh proxy server responsive to system changes without
+  forcing clients to change.
+\newblock {\em Proceedings - 2020 IEEE 44th Annual Computers, Software, and
+  Applications Conference, COMPSAC 2020}, pages 1761--1766, 7 2020.
 
 \end{thebibliography}
