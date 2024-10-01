@@ -1,6 +1,7 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.4.1)  27 SEP 2024 13:43
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.3.25)  1 OCT 2024 09:54
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **hirachi-cs-2024-mid.tex
 (./hirachi-cs-2024-mid.tex
@@ -198,9 +199,9 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \pl@lab=\toks22
 )
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 25.
+(Font)              scaled to size 9.24683pt on input line 53.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 25.
+(Font)              scaled to size 9.24683pt on input line 53.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
 File: l3backend-dvipdfmx.def 2024-02-20 L3 backend support: dvipdfmx
@@ -212,54 +213,58 @@ File: l3backend-dvipdfmx.def 2024-02-20 L3 backend support: dvipdfmx
 ) (./hirachi-cs-2024-mid.aux)
 \openout1 = `hirachi-cs-2024-mid.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 \c@lstlisting=\count285
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 26.
+(Font)              scaled to size 15.9785pt on input line 54.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 26.
+(Font)              scaled to size 15.9785pt on input line 54.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 26.
+(Font)              scaled to size 11.09619pt on input line 54.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 26.
+(Font)              scaled to size 11.09619pt on input line 54.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 28.
+(Font)              scaled to size 11.09619pt on input line 56.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 28.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-8.
+(Font)              scaled to size 11.09619pt on input line 56.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 5
+6.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `JT1/hmc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 48.
-LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 48.
-LaTeX Font Info:    Font shape `JY1/hmc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 48.
-LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 48.
+File: ./fig/system.png Graphic file (type bmp)
+<./fig/system.png>
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 82.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 82.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 103.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 103.
+File: ./fig/connect.png Graphic file (type bmp)
+<./fig/connect.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -267,6 +272,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
+File: ./fig/step.png Graphic file (type bmp)
+<./fig/step.png>
+File: ./fig/detail.png Graphic file (type bmp)
+<./fig/detail.png>
+
 (./hirachi-cs-2024-mid.bbl
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 7.39746pt on input line 1.
@@ -306,12 +316,12 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5304 strings out of 474774
- 75126 string characters out of 5758802
- 1931032 words of memory out of 5000000
- 27632 multiletter control sequences out of 15000+600000
- 571177 words of font info for 89 fonts, out of 8000000 for 9000
+ 5347 strings out of 474774
+ 75884 string characters out of 5758801
+ 1933032 words of memory out of 5000000
+ 27666 multiletter control sequences out of 15000+600000
+ 572129 words of font info for 92 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  57i,11n,69p,335b,1031s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hirachi-cs-2024-mid.dvi (2 pages, 18156 bytes).
+Output written on hirachi-cs-2024-mid.dvi (2 pages, 14308 bytes).
