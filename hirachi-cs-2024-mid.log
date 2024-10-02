@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.3.25)  1 OCT 2024 17:18
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.3.25)  2 OCT 2024 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -250,23 +250,23 @@ LaTeX Font Info:    Trying to load font information for T1+cmss on input line 5
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 71.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 71.
 File: ./fig/simple.png Graphic file (type bmp)
 <./fig/simple.png>
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 78.
+(Font)              scaled to size 8.32214pt on input line 92.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 78.
-LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 89.
-LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 89.
+(Font)              scaled to size 8.32214pt on input line 92.
+File: ./fig/diff.png Graphic file (type bmp)
+<./fig/diff.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: ./fig/connect.png Graphic file (type bmp)
 <./fig/connect.png>
-File: ./fig/step.png Graphic file (type bmp)
-<./fig/step.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -274,11 +274,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
+File: ./fig/step.png Graphic file (type bmp)
+<./fig/step.png>
 File: ./fig/detail.png Graphic file (type bmp)
 <./fig/detail.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 (./hirachi-cs-2024-mid.bbl
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
@@ -316,16 +315,9 @@ Underfull \hbox (badness 2707) in paragraph at lines 4--7
 ttps : / /
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
 LaTeX Font Info:    Kanji font shape `JY1/hgt/m/it' undefined
 (Font)              No change on input line 12.
-)
-[3
-
-] (./hirachi-cs-2024-mid.aux)
+) [2] (./hirachi-cs-2024-mid.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2023-11-01> patch level 1
@@ -333,12 +325,12 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5347 strings out of 474774
- 75895 string characters out of 5758801
- 1935032 words of memory out of 5000000
- 27666 multiletter control sequences out of 15000+600000
+ 5354 strings out of 474774
+ 76021 string characters out of 5758801
+ 1934032 words of memory out of 5000000
+ 27672 multiletter control sequences out of 15000+600000
  572815 words of font info for 93 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  57i,11n,69p,335b,1031s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hirachi-cs-2024-mid.dvi (3 pages, 15200 bytes).
+Output written on hirachi-cs-2024-mid.dvi (2 pages, 14008 bytes).
